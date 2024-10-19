@@ -1,0 +1,13 @@
+#
+msgid ""
+msgstr ""
+
+msgid "Bienvenido a Oposiciones Mallorca"
+msgstr "Benvingut a les oposicions de Mallorca"
+
+msgid "Esta es una web para ayudarte a preparar tus oposiciones."
+msgstr ""
+"Aquest és un lloc web per ajudar -vos a preparar les vostres oposicions."
+
+msgid "El texto dice \"Hola\""
+msgstr "El text diu \"hola\""
